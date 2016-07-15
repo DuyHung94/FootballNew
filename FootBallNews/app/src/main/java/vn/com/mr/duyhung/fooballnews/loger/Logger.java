@@ -2,7 +2,7 @@ package vn.com.mr.duyhung.fooballnews.loger;
 
 import android.util.Log;
 
-import com.vn.duyhung.footballnews.config.GlobalValue;
+import vn.com.mr.duyhung.fooballnews.config.GlobalValue;
 
 public class Logger {
 
