@@ -1,0 +1,8 @@
+<resources>
+	<string name="app_name">PicEditor</string>
+    <string name="action_settings">Settings</string>
+
+    <!--id admob-->
+    <string name="banner_ad_unit_id">ca-app-pub-4400840481388665/4779273038</string>
+    <string name="full_banner_ad_unit_id">ca-app-pub-4400840481388665/7732739433</string>
+</resources>
