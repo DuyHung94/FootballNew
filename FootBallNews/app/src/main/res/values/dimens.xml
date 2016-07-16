@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources>
-    <!--logo margin top-->
-    <dimen name="padding">10dp</dimen>
-    <dimen name="btn_padding">5dp</dimen>
+    <!-- v2 -->
+    <dimen name="v2_textsize_16dp">16dp</dimen>
+    <dimen name="v2_textsize_19dp">19dp</dimen>
+    <dimen name="v2_textsize_20dp">20dp</dimen>
+    <dimen name="v2_textsize_21dp">21dp</dimen>
+    <dimen name="v2_textsize_22dp">22dp</dimen>
+    <dimen name="v2_textsize_23dp">23dp</dimen>
+    <dimen name="v2_textsize_24dp">24dp</dimen>
+    <dimen name="v2_textsize_27dp">27dp</dimen>
+    <dimen name="v2_textsize_30dp">30dp</dimen>
+    <dimen name="v2_textsize_37dp">37dp</dimen>
 </resources>
